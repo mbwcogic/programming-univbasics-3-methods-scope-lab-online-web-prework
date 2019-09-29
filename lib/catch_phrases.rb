@@ -7,5 +7,5 @@ puts "Thank You Mario! But Our Princess Is In Another Castle!"
 end
 
 def link
-puts any phrase
+puts 
 end
